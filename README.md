@@ -1,0 +1,2 @@
+# example-ci
+automated testing
